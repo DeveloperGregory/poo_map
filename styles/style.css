@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+
+#heading{
+    text-align: center;
+}
+
+#map{
+    background-color: gray;
+    height: 600px;
+    width: 100%;
+}
